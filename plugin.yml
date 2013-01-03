@@ -1,0 +1,13 @@
+name: CommandStick
+version: 1.1
+author: MrMysterious
+
+main: de.mrmysterious.commandstick.CommandStick
+
+commands:
+  commandstick:
+    description: Bind a command to the CommandStick.
+  cstick:
+    description: Bind a command to the CommandStick.
+  cs:
+    description: Bind a command to the CommandStick.
