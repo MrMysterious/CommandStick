@@ -1,0 +1,4 @@
+CommandStick
+============
+
+A Bukkit Plugin.
